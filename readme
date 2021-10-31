@@ -9,7 +9,10 @@ In this repo I have done Spam classifier using Natural Language Processing . Thi
        lemmatization , 
        Bag of Words ,
        Tf-idf.
+Model is trained using Naive bayes classifier       
        
-I have used colab for this project . spam-classifier-using-NLP.ipynb contains the code        
+I have used colab for this project . spam_classifier_using_NLP.ipynb contains the code        
+
+Dataset used in this repo is from UCI Machine Learning Repository - SMS Spam Collection dataset
        
        
