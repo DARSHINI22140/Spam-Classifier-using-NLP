@@ -3,13 +3,13 @@
 
 In this repo I have done Spam classifier using Natural Language Processing . This is my first project in NLP . 
 
-I have used NLP techniques like 
+ NLP techniques used like 
        tokenization ,
        stemming , 
        lemmatization , 
        Bag of Words ,
        Tf-idf.
        
-       
+I have used colab for this project . spam-classifier-using-NLP.ipynb contains the code        
        
        
